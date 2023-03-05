@@ -42,3 +42,11 @@ To see folders and files pcmanfm is your file manager:
 Zathura is good as a minimal PDF reader:
 
 - [zathura](https://packages.debian.org/bullseye/zathura)
+
+Program to compress and decompress files:
+
+- [Xarchiver](https://packages.debian.org/bullseye/xarchiver)
+
+Package to make system backups:
+
+- [timeshift](https://packages.debian.org/bullseye/timeshift)
