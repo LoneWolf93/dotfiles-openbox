@@ -18,18 +18,10 @@ If you want to have a volume icon in tint2 you may to install:
 
 - [volumeicon-alsa](https://packages.debian.org/bullseye/volumeicon-alsa)
 
-I tried VIM but I am looking for anything simplier, he goes:
+I tried VIM but I am looking for anything simplier, here it goes:
 
 - [micro](https://packages.debian.org/bullseye/micro)
 
+A clipboard is important too:
 
-
-Instalado programa para guardar en el portapapeles:
-
-Programa es xfce4-clipman
-
-Para usar openbox he instalado
-
-- openbox-menu
-- tint2
-- openbox
+- [xfce4-clipman](https://packages.debian.org/bullseye/xfce4-clipman)
