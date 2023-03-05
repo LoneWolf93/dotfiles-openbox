@@ -6,6 +6,10 @@ Instalado editor de texto simple en terminal
 
 Programa es micro
 
+Instalado programa para guardar en el portapapeles:
+
+Programa es xfce4-clipman
+
 Para usar openbox he instalado
 
 - openbox-menu
