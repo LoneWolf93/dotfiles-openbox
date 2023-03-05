@@ -10,6 +10,7 @@ The packages are:
 
 - [openbox](https://packages.debian.org/bullseye/openbox)
 - [openbox-menu](https://packages.debian.org/bullseye/openbox-menu)
+- [obconf](https://packages.debian.org/bullseye/obconf)
 - [tint2](https://packages.debian.org/bullseye/tint2)
 
 # Additional packages
@@ -32,4 +33,4 @@ When you start for the first time openbox there isn't a wallpaper, nitrogen is a
 
 Is important to hear music, an alternative for terminal is:
 
--[cmus](https://packages.debian.org/bullseye/cmus)
+- [cmus](https://packages.debian.org/bullseye/cmus)
