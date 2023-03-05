@@ -1,6 +1,6 @@
 Hi,
 
-This repository is my actual dotfiles to work in openbox under Debian.
+This repository is my current dotfiles to work in openbox under Debian.
 
 I will do it by steps to make it easy.
 
