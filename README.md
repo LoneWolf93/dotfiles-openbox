@@ -25,3 +25,11 @@ I tried VIM but I am looking for anything simplier, here it goes:
 A clipboard is important too:
 
 - [xfce4-clipman](https://packages.debian.org/bullseye/xfce4-clipman)
+
+When you start for the first time openbox there isn't a wallpaper, nitrogen is a good choice:
+
+- [nitrogen](https://packages.debian.org/bullseye/nitrogen)
+
+Is important to hear music, an alternative for terminal is:
+
+-[cmus](https://packages.debian.org/bullseye/cmus)
