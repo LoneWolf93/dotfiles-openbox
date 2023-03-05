@@ -34,3 +34,11 @@ When you start for the first time openbox there isn't a wallpaper, nitrogen is a
 Is important to hear music, an alternative for terminal is:
 
 - [cmus](https://packages.debian.org/bullseye/cmus)
+
+To see folders and files pcmanfm is your file manager:
+
+- [pcmanfm](https://packages.debian.org/bullseye/pcmanfm)
+
+Zathura is good as a minimal PDF reader:
+
+- [zathura](https://packages.debian.org/bullseye/zathura)
