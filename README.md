@@ -89,6 +89,12 @@ The file /home/$USER/.config/openbox/autostart.sh is for to start apps when open
 
 </details>
 
+<details><summary>tint2rc config file</summary><br>
+
+The file /home/$USER/.config/tint2/tint2rc makes a theme tint2 bar and you can do changes actions from the bar. Change hour, color, icons, etc.
+
+</details>
+ 
 # Images
 
 ![](https://i.imgur.com/BFFrZBT.jpg)
