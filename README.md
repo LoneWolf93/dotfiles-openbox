@@ -72,7 +72,7 @@ This file is also pre-configured, meaning that it will only be necessary to amen
 Note: Per-application settings pertaining to fixed placement of applications per monitor will only work if the x & y position have also been defined.
 ```
 
-You can see more in [](https://wiki.archlinux.org/title/Openbox#rc.xml)
+You can see more in https://wiki.archlinux.org/title/Openbox#rc.xml
 
 </details>
 
