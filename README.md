@@ -85,13 +85,13 @@ The available options are discussed extensively below in the [Menus](https://wik
   
 <details><summary>autostart.sh config file</summary><br>
   
-The file /home/$USER/.config/openbox/autostart.sh is for to start apps when openbox starts from a restart, poweroff, etc.
+The file `/home/$USER/.config/openbox/autostart.sh` is for to start apps when openbox starts from a restart, poweroff, etc.
 
 </details>
 
 <details><summary>tint2rc config file</summary><br>
 
-The file /home/$USER/.config/tint2/tint2rc makes a theme tint2 bar and you can do changes actions from the bar. Change hour, color, icons, etc.
+The file `/home/$USER/.config/tint2/tint2rc` makes a theme tint2 bar and you can do changes actions from the bar. Change hour, color, icons, etc.
 
 </details>
  
