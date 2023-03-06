@@ -59,7 +59,7 @@ Package to make system backups:
 Tip: Custom keyboard shortcuts (keybindings) must be added to the <keyboard> section of this file, and underneath the <!-- Keybindings for running aplications --> heading.
 ```
 
-`~/.config/openbox/rc.xml` is the main configuration file, responsible for determining the behaviour and settings of the overall session, including:
+`/home/$USER/.config/openbox/rc.xml` is the main configuration file, responsible for determining the behaviour and settings of the overall session, including:
 
 - Keyboard shortcuts (e.g. starting applications; controlling the volume)
 - Theming
@@ -76,7 +76,18 @@ You can see more in [](https://wiki.archlinux.org/title/Openbox#rc.xml)
 
 </details>
 
+<details><summary>menu.xml config file</summary><br>
+ 
+`/home/$USER/.config/openbox/menu.xml` defines the type and behaviour of the desktop menu, accessible by right-clicking the background. Although the default provided is a static menu (meaning that it will not automatically update when new applications are installed), it is possible to employ the use of dynamic menus that will automatically update as well.
 
+The available options are discussed extensively below in the [Menus](https://wiki.archlinux.org/title/Openbox#Menus) section. 
+</details>
+  
+<details><summary>autostart.sh config file</summary><br>
+  
+The file /home/$USER/.config/openbox/autostart.sh is for to start apps when openbox starts from a restart, poweroff, etc.
+
+</details>
 
 # Images
 
