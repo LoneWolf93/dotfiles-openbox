@@ -21,7 +21,7 @@ If you want to have a volume icon in tint2 you may to install:
 
 I tried VIM but I am looking for anything simplier, here it goes:
 
-- [micro](https://packages.debian.org/bullseye/micro)
+- [mousepad](https://packages.debian.org/bullseye/mousepad)
 
 A clipboard is important too:
 
@@ -50,6 +50,10 @@ Program to compress and decompress files:
 Package to make system backups:
 
 - [timeshift](https://packages.debian.org/bullseye/timeshift)
+
+Notification daemon for WM
+
+- [dunst](https://packages.debian.org/bullseye/dunst)
 
 # Config files and their paths
 
