@@ -1,5 +1,5 @@
 tint2 &
 nitrogen --restore &
 xrdb $HOME/.Xresources &
-volumeicon &
+pnmixer &
 xfce4-clipman &
