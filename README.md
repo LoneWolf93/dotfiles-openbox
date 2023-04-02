@@ -17,6 +17,8 @@ The packages are:
 
 If you want to have a volume icon in tint2 you may to install:
 
+- [pnmixer](https://packages.debian.org/bullseye/pnmixer) **I recommend this one**
+
 - [volumeicon-alsa](https://packages.debian.org/bullseye/volumeicon-alsa)
 
 I tried VIM but I am looking for anything simplier, here it goes:
