@@ -9,6 +9,7 @@
 - [Esta Openbox anticuado o abandonado?](#titulo2-1)
 - [Enlaces de interes sobre Openbox y su configuración](#titulo2-2)
 - [Software que utilizo](#titulo3)
+- [Ficheros de configuración](#titulo4)
 
 ## Que es rice / ricing cuando nos referimos a GNU/Linux?<a name="titulo1"></a>
 
@@ -68,8 +69,41 @@ Hasta aqui mi repertorio de Software que utilizo o eso espero. 🏁
 
 Ahora vamos a comentar los diferentes ficheros de configuración y que función hace.
 
-## Ficheros de configuración
+## Ficheros de configuración<a name="titulo4"></a>
+
 <details>
-  <summary>.Xresources</summary><br>
-  `Fichero oculto que se aloja en el Home del usuario, este sirve para poder personalizar los terminales *term, yo lo utilizo para Xterm.`
+<summary>.Xresources</summary><br>
+Fichero oculto que se aloja en el Home del usuario, este sirve para poder personalizar los terminales *term, yo lo utilizo para Xterm.
+</details>
+
+---
+
+<details>
+<summary>.bashrc</summary><br>
+Fichero oculto que se aloja en el Home del usuario, sirve para personalizar nuestra terminal con la shell en [BASH](https://es.wikipedia.org/wiki/Bash).
+</details>
+
+---
+
+<details>
+<summary>dunstrc</summary><br>
+Fichero que se aloja en /home/usuario/.config/dunst/, sirve para personalizar las notificaciones que se ejecutan con Dunst.
+</details>
+
+---
+
+<details>
+<summary>config.conf</summary><br>
+Fichero que se aloja en /home/usuario/.config/neofetch/, sirve para personalizar el comando neofetch.
+</details>
+
+---
+
+<details>
+<summary>autostart.sh / menu.xml / rc.xml</summary><br>
+Ficheros que se aloja en /home/usuario/.config/openbox/, esencial para el funcionamiento de Openbox.
+  
+<li>autostart.sh<br>Fichero para ejecutar aplicaciones cuando openbox inicie</li>
+<li>menu.xml<br>Fichero para configurar el menú de aplicaciones.</li>
+<li>rc.xml<br>Fichero para configurar aspectos de Openbox y atajos de teclado</li>
 </details>
