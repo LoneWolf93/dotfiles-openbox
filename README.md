@@ -62,5 +62,15 @@ Bueno, dicho esto vamos al grano que me enrollo. 🙃
 - [Terminus](https://files.ax86.net/terminus-ttf): Esto no es un programa pero en mi opinión es una de las mejores fuentes que he tenido.
 - [Old School RuneScape](https://runelite.net/): Videojuego creado por Jagex, **¡ATENCIÓN!** si juegas que sea bajo tu responsabilidad... engancha muchisimo!
 
+Hasta aqui mi repertorio de Software que utilizo o eso espero. 🏁
 
-Hasta aqui
+---
+
+Ahora vamos a comentar los diferentes ficheros de configuración y que función hace.
+
+## Ficheros de configuración
+<details>
+  <summary>.Xresources</summary>
+  <br>
+  `Fichero oculto que se aloja en el Home del usuario, este sirve para poder personalizar los terminales *term, yo lo utilizo para Xterm.`
+</details>
