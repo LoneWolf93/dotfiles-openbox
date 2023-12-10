@@ -56,5 +56,11 @@ Bueno, dicho esto vamos al grano que me enrollo. 🙃
 - [Steam](https://en.wikipedia.org/wiki/Steam_(service)): Ultimamente, bueno ultimamente es mentir... Llevo como 4 años que no me pego esos vicios de antaño de estar 6/7 horas pegado a la pantalla jugando a CS:GO, Dota2, etc. Esos años ya pasaron y ahora me van mas los juegos indies y ratitos ocio de 30 minutos o 1 hora como mucho.
 - [Zathura](https://pwmt.org/projects/zathura/): Un visor simple de documentos PDF, tambien puede leer comics en formato .cbr.
 - [mpv Media Player](https://mpv.io/): Reproductor de video liviano y con poco contenido en pantalla. Si no recuerdo mal tiene una extension para poder ver videos de YT.
-- [Old School RuneScape](): Videojuego creado por Jagex, **¡ATENCIÓN!** si juegas que sea bajo tu responsabilidad... engancha muchisimo!
+- [Dunst](https://dunst-project.org/documentation/): Solo tengo que decir que **Es el mejor servicio de notificaciones que he probado**. No hace falta decir nada más, para Xorg hasta el momento estoy enamorado de sus funciones, en Xorg es lo mejor aunque para [Wayland](https://es.wikipedia.org/wiki/Wayland_(protocolo)) tambien está pero algunas funciones no podrian estar disponible hasta el momento.
+- [Scrot](https://es.linux-console.net/?p=22613): Quizás los haya de mejores pero para mi Scrot es lo más rápido y liviano que hay en Unix. Con un simple comando puedes capturar la pantalla, un ventana activa, area, etc.
+- [LXappearance](https://packages.debian.org/bookworm/lxappearance): Gestor de personalización para poder cambiar los iconos, temas GTK+ y fuentes TTF.
+- [Terminus](https://files.ax86.net/terminus-ttf): Esto no es un programa pero en mi opinión es una de las mejores fuentes que he tenido.
+- [Old School RuneScape](https://runelite.net/): Videojuego creado por Jagex, **¡ATENCIÓN!** si juegas que sea bajo tu responsabilidad... engancha muchisimo!
+
+
 Hasta aqui
