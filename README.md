@@ -70,7 +70,6 @@ Ahora vamos a comentar los diferentes ficheros de configuración y que función 
 
 ## Ficheros de configuración
 <details>
-  <summary>.Xresources</summary>
-  <br>
+  <summary>.Xresources</summary><br>
   `Fichero oculto que se aloja en el Home del usuario, este sirve para poder personalizar los terminales *term, yo lo utilizo para Xterm.`
 </details>
