@@ -10,6 +10,7 @@
 - [Enlaces de interes sobre Openbox y su configuración](#titulo2-2)
 - [Software que utilizo](#titulo3)
 - [Ficheros de configuración](#titulo4)
+- [Capturas de pantalla del sistema](#titulo5)
 
 ## Que es rice / ricing cuando en GNU/Linux?<a name="titulo1"></a>
 
@@ -140,3 +141,6 @@ Directorios que se alojan en /home/usuario/ es utilizado para personal el entorn
 <br></br>
 
 **Creo que no se me olvida nada...** 🤔
+
+## Capturas de pantalla del sistema<a name="titulo5"></a>
+
