@@ -4,14 +4,14 @@
 
 ## Indice de contenido
 
-- [Que es rice / ricing cuando nos referimos a GNU/Linux?](#titulo1)
+- [Que es rice / ricing cuando en GNU/Linux?](#titulo1)
 - [Que es Openbox?](#titulo2)
 - [Esta Openbox anticuado o abandonado?](#titulo2-1)
 - [Enlaces de interes sobre Openbox y su configuración](#titulo2-2)
 - [Software que utilizo](#titulo3)
 - [Ficheros de configuración](#titulo4)
 
-## Que es rice / ricing cuando nos referimos a GNU/Linux?<a name="titulo1"></a>
+## Que es rice / ricing cuando en GNU/Linux?<a name="titulo1"></a>
 
 El término 'Rice' se utiliza para describir el escritorio unix de una persona, mientras que 'ricing' es cuando alguien personaliza su escritorio, como los iconos, los paneles o la interfaz del sistema. Sin embargo, cuando se trata de personalizar un gestor de ventanas en mosaico, la personalización del sistema de un usuario se vuelve mucho más compleja. Cosas básicas como la barra de paneles y el lanzador de aplicaciones deben ser configuradas por el usuario.
 
@@ -80,7 +80,7 @@ Fichero oculto que se aloja en el Home del usuario, este sirve para poder person
 
 <details>
 <summary>.bashrc</summary><br>
-Fichero oculto que se aloja en el Home del usuario, sirve para personalizar nuestra terminal con la shell en [BASH](https://es.wikipedia.org/wiki/Bash).
+Fichero oculto que se aloja en el Home del usuario, sirve para personalizar nuestra terminal con la shell en <a href="https://es.wikipedia.org/wiki/Bash">BASH</a>.
 </details>
 
 ---
@@ -101,9 +101,39 @@ Fichero que se aloja en /home/usuario/.config/neofetch/, sirve para personalizar
 
 <details>
 <summary>autostart.sh / menu.xml / rc.xml</summary><br>
+  
 Ficheros que se aloja en /home/usuario/.config/openbox/, esencial para el funcionamiento de Openbox.
   
 <li>autostart.sh<br>Fichero para ejecutar aplicaciones cuando openbox inicie</li>
 <li>menu.xml<br>Fichero para configurar el menú de aplicaciones.</li>
 <li>rc.xml<br>Fichero para configurar aspectos de Openbox y atajos de teclado</li>
 </details>
+
+---
+
+<details>
+<summary>tint2rc</summary><br>
+Fichero que se aloja en /home/usuario/.config/tint2/, sirve para personalizar la barra de tareas tint2, se puede utilizar el programa tint2conf.
+</details>
+
+<details>
+<summary>estado-notificaciones.sh / temp-cpu.sh / volumen.sh</summary><br>
+Ficheros opcionales. Estos solo se ejecutan en la barra tint2 para poder ver en tiempo real el estado de las notificaciones, temperatura procesador y el porcentaje de volumen actual.
+</details>
+
+---
+
+<details>
+<summary>zathurarc</summary><br>
+Fichero que se aloja en /home/usuario/.config/zathura/, sirve para personalizar el visor de PDF zathura.
+</details>
+
+---
+
+<details>
+<summary>Directorios .icons y .themes</summary><br>
+Directorios que se alojan en /home/usuario/ es utilizado para personal el entorno GTK+.
+</details>
+
+Creo que no se me olvida nada...
+
