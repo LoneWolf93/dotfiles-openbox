@@ -138,6 +138,14 @@ Fichero que se aloja en /home/usuario/.config/zathura/, sirve para personalizar 
 Directorios que se alojan en /home/usuario/ es utilizado para personal el entorno GTK+.
 </details>
 
+---
+
+
+<details>
+<summary>.bash_profile</summary><br>
+Fichero que sirve para poder hacer ejecutar el comando startx cuando iniciamos sesion en una TTY. Sirve para cuando no empleas ningu Desktop Manager.
+</details>
+
 <br></br>
 
 **Creo que no se me olvida nada...** 🤔
