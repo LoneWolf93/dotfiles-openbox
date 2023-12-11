@@ -60,7 +60,7 @@ Bueno, dicho esto vamos al grano que me enrollo. 🙃
 - [Dunst](https://dunst-project.org/documentation/): Solo tengo que decir que **Es el mejor servicio de notificaciones que he probado**. No hace falta decir nada más, para Xorg hasta el momento estoy enamorado de sus funciones, en Xorg es lo mejor aunque para [Wayland](https://es.wikipedia.org/wiki/Wayland_(protocolo)) tambien está pero algunas funciones no podrian estar disponible hasta el momento.
 - [Scrot](https://es.linux-console.net/?p=22613): Quizás los haya de mejores pero para mi Scrot es lo más rápido y liviano que hay en Unix. Con un simple comando puedes capturar la pantalla, un ventana activa, area, etc.
 - [LXappearance](https://packages.debian.org/bookworm/lxappearance): Gestor de personalización para poder cambiar los iconos, temas GTK+ y fuentes TTF.
-- [Terminus](https://files.ax86.net/terminus-ttf): Esto no es un programa pero en mi opinión es una de las mejores fuentes que he tenido.
+- [Terminus](https://files.ax86.net/terminus-ttf): Esto no es un programa pero en mi opinión es una de las mejores fuentes que he tenido. Segun la web el tamaño ideal es 9pt o 10.5pt
 - [Old School RuneScape](https://runelite.net/): Videojuego creado por Jagex, **¡ATENCIÓN!** si juegas que sea bajo tu responsabilidad... engancha muchisimo!
 
 Hasta aqui mi repertorio de Software que utilizo o eso espero. 🏁
@@ -116,9 +116,11 @@ Ficheros que se aloja en /home/usuario/.config/openbox/, esencial para el funcio
 Fichero que se aloja en /home/usuario/.config/tint2/, sirve para personalizar la barra de tareas tint2, se puede utilizar el programa tint2conf.
 </details>
 
+---
+
 <details>
 <summary>estado-notificaciones.sh / temp-cpu.sh / volumen.sh</summary><br>
-Ficheros opcionales. Estos solo se ejecutan en la barra tint2 para poder ver en tiempo real el estado de las notificaciones, temperatura procesador y el porcentaje de volumen actual.
+Ficheros opcionales alojados en /home/usuario/.config/tint2/Executors. Estos solo se ejecutan en la barra tint2 para poder ver en tiempo real el estado de las notificaciones, temperatura procesador y el porcentaje de volumen actual.
 </details>
 
 ---
@@ -135,5 +137,6 @@ Fichero que se aloja en /home/usuario/.config/zathura/, sirve para personalizar 
 Directorios que se alojan en /home/usuario/ es utilizado para personal el entorno GTK+.
 </details>
 
-Creo que no se me olvida nada...
+<br></br>
 
+**Creo que no se me olvida nada...** 🤔
