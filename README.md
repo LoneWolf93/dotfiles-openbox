@@ -154,3 +154,4 @@ Fichero que sirve para poder hacer ejecutar el comando startx cuando iniciamos s
 
 ![](https://github.com/LoneWolf93/dotfiles-openbox/blob/main/Images/2023-12-17_1920x1080_17:56:46_scrot.png?raw=true)
 
+![](https://github.com/LoneWolf93/dotfiles-openbox/blob/main/Images/2023-12-17_1920x1080_18:22:29_scrot.png?raw=true)
