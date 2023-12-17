@@ -152,3 +152,5 @@ Fichero que sirve para poder hacer ejecutar el comando startx cuando iniciamos s
 
 ## Capturas de pantalla del sistema<a name="titulo5"></a>
 
+![](https://github.com/LoneWolf93/dotfiles-openbox/blob/main/Images/2023-12-17_1920x1080_17:56:46_scrot.png?raw=true)
+
